@@ -1,7 +1,7 @@
 {
-  "name": "auth-i-guided",
+  "name": "auth-i",
   "version": "1.0.0",
-  "description": "Web Auth I Guided Project",
+  "description": "Web Auth I Project",
   "main": "index.js",
   "scripts": {
     "server": "nodemon index.js",
